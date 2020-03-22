@@ -22,3 +22,5 @@ DES、DES3、AES、RSA、MD5、SHA、HMAC传入的消息或者密钥都是bytes�
 Python实现RSA中，在rsa库中带有生成签名和校对签名的方法
 
 安全性：DES<DES3=AES<RSA,至于MD5、SHA、HMAC不好说了
+
+<B>更多内容欢迎关注个人公众号：Python之战，一个纯技术公众号</B>
